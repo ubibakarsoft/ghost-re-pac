@@ -1,4 +1,4 @@
-# ghost-re-pac
+# re-pac
 Game Builder Hackathon 
 
 Working in progress
