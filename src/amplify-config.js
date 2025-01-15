@@ -3,7 +3,7 @@ import { Amplify } from 'aws-amplify';
 
    Amplify.configure({
      Auth: {
-       region: 'ap-southeast-1',',
+       region: 'ap-southeast-1',
        identityPoolId: 'ap-southeast-1:7cb48d3a-e0b7-4c33-bc4c-c5433c286d03',
     oauth: {
       domain: 'ubibakar.au.auth0.com',
